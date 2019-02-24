@@ -1,0 +1,5 @@
+0.0.5 Bugfix in socket list
+0.0.4 Bugfix in number of sockets
+0.0.3 Minor changes for debugging
+0.0.2 Minor changes for debugging
+0.0.1 Added basic functions and testing stuff
