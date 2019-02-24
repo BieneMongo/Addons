@@ -23,7 +23,7 @@
 		</assets>
 		<news />
 	</extension>
-</addon><addon id="script.remote.control" name="Remote Control" provider-name="Maaatin" version="0.0.1">
+</addon><addon id="script.remote.control" name="Remote Control" provider-name="Maaatin" version="0.0.2">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0" />
 	</requires>
