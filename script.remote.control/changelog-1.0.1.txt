@@ -1,3 +1,4 @@
+1.0.0 Status now saved
 0.0.15 Minor fixes
 0.0.14 Dialogs working correctly
 0.0.10 Improved file handling
