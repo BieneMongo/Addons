@@ -1,2 +1,0 @@
-0.0.2 Minor changes for debugging
-0.0.1 Added basic functions and testing stuff
