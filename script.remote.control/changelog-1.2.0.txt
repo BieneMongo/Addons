@@ -1,4 +1,5 @@
-1.1.0 Save the Statu of a remote
+1.2.0 Commands now work properly
+1.1.0 Save the Status of a remote
 1.0.5 Minor Bugfixes
 1.0.0 Status now saved
 0.0.15 Minor fixes
