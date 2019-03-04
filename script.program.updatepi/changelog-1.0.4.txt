@@ -1,0 +1,4 @@
+1.0.1 Added to github
+1.0.0 Added notifications and dialogs
+0.0.2 Wrote program to update the pi 
+0.0.1 Added basic functions and testing stuff
